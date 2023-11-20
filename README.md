@@ -52,5 +52,8 @@ These experiments and contents cover general tools and concepts related to softw
 - [JSFiddle](https://jsfiddle.net/)
 - [StackBlitz](https://stackblitz.com/)
 - [Replit](https://replit.com/)
-- [Mermaid](https://mermaid.js.org/)
 
+### Tools
+
+- [Free For Developers](https://free-for.dev/#/)
+- [Mermaid](https://mermaid.js.org/)
