@@ -1,4 +1,4 @@
-# 🏗️ Software Development in General
+# 🏗️ Software Development
 
 These experiments and contents cover general tools and concepts related to software engineering & architecture from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
