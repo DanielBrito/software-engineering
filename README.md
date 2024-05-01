@@ -45,6 +45,7 @@ These experiments and contents cover general tools and concepts related to softw
 - [LinkedIn Skill Assessments Quizzes](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
 - [StackShare](https://stackshare.io/stacks)
 - [The Twelve Factor App](https://12factor.net/)
+- [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 
 ### Platforms
 
