@@ -32,19 +32,23 @@ These experiments and contents cover general tools and concepts related to softw
 - [Professional Front-end Architecture](https://www.amazon.com.br/Professional-Front-end-Architecture-Front-End-Development/dp/1726146456) (Fabio Nolasco)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 
+## 📃 References
+
+- [Designing Microservice-Based Applications by Using a DDD Approach](https://cm.tm.kit.edu/download/domain_driven_microservice-architecture.pdf) (Benjamin Hippchen et al.)
+- [Agile Manifesto](https://agilemanifesto.org/)
+- [The Twelve Factor App](https://12factor.net/)
+
 ## 🧰 Resources
 
-### References
+### General
 
 - [Devhints](https://devhints.io/)
 - [Cheatography](https://cheatography.com/programming/)
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [The Power of Serverless](https://serverless.css-tricks.com/)
 - [Explain Shell](https://explainshell.com/)
-- [Agile Manifesto](https://agilemanifesto.org/)
 - [LinkedIn Skill Assessments Quizzes](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/)
 - [StackShare](https://stackshare.io/stacks)
-- [The Twelve Factor App](https://12factor.net/)
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 
 ### Platforms
