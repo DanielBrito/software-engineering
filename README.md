@@ -1,4 +1,4 @@
-# 🏗️ Software Development
+# 🏗️ Software Engineering
 
 These experiments and contents cover general tools and concepts related to software engineering & architecture from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
@@ -9,18 +9,14 @@ These experiments and contents cover general tools and concepts related to softw
 - Specifications
 - WRSPM Model
 - Design
-- Client-server Pattern
-- Master-Slave Pattern
 - Modularity
-- Coupling & Cohesion
 - Buy vs Build
 - Testing
 - Verification and Validation
 - Software Models
 - Agile
-- Scrum
-- Kanban
 - Event-Driven Architecture
+- Domain-Driven Design
 
 ## 📚 Books
 
@@ -31,6 +27,7 @@ These experiments and contents cover general tools and concepts related to softw
 - [The Pragmatic Programmer](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052) (David Thomas & Andrew Hunt)
 - [Professional Front-end Architecture](https://www.amazon.com.br/Professional-Front-end-Architecture-Front-End-Development/dp/1726146456) (Fabio Nolasco)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Domain-Driven Design Distilled](https://www.amazon.com.br/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420/) (Vaughn Vernon)
 
 ## 📃 References
 
