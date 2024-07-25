@@ -32,6 +32,7 @@ These experiments and contents cover general tools and concepts related to softw
 ## 📃 References
 
 - [Designing Microservice-Based Applications by Using a DDD Approach](https://cm.tm.kit.edu/download/domain_driven_microservice-architecture.pdf) (Benjamin Hippchen et al.)
+- [A Systematic Mapping Study in Microservice Architecture](Articles/a_systematic_mapping_study_in_microservice_architecture-alshuqayran_et_al.pdf) (Nuha Alshuqayran et al.)
 - [Agile Manifesto](https://agilemanifesto.org/)
 - [The Twelve Factor App](https://12factor.net/)
 
