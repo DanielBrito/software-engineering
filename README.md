@@ -28,6 +28,7 @@ These experiments and contents cover general tools and concepts related to softw
 - [Professional Front-end Architecture](https://www.amazon.com.br/Professional-Front-end-Architecture-Front-End-Development/dp/1726146456) (Fabio Nolasco)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Domain-Driven Design Distilled](https://www.amazon.com.br/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420/) (Vaughn Vernon)
+- [Production-Ready Microservices](https://www.amazon.com.br/Production-Ready-Microservices-Susan-Fowler/dp/1491965975) (Susan Fowler)
 
 ## 📃 References
 
