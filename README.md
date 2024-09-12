@@ -32,12 +32,13 @@ These experiments and contents cover general tools and concepts related to softw
 
 ## 📃 References
 
+- [Agile Manifesto](https://agilemanifesto.org/)
+- [The Twelve Factor App](https://12factor.net/)
 - [Designing Microservice-Based Applications by Using a DDD Approach](https://cm.tm.kit.edu/download/domain_driven_microservice-architecture.pdf) (Benjamin Hippchen et al.)
 - [A Systematic Mapping Study in Microservice Architecture](Articles/a_systematic_mapping_study_in_microservice_architecture-alshuqayran_et_al.pdf) (Nuha Alshuqayran et al.)
 - [Evaluating the monolithic and the microservice architecture pattern to deploy web applications in the cloud](Articles/evaluating_the_monolithic_and_the_microservice_architecture_pattern_to_deploy_web_applications_in_the_cloud-villamizar_et_al.pdf) (Mario Villamizar et al.)
 - [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) (Giuseppe DeCandia et al.)
-- [Agile Manifesto](https://agilemanifesto.org/)
-- [The Twelve Factor App](https://12factor.net/)
+- [Kafka: a Distributed Messaging System for Log Processing](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf) (Jay Kreps et al.)
 
 ## 🧰 Resources
 
