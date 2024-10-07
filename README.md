@@ -12,6 +12,7 @@ These experiments and contents cover general tools and concepts related to softw
 - Modularity
 - Buy vs Build
 - Testing
+- Observability
 - Verification and Validation
 - Software Models
 - Agile
