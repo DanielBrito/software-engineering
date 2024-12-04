@@ -40,6 +40,7 @@ These experiments and contents cover general tools and concepts related to softw
 - [Evaluating the monolithic and the microservice architecture pattern to deploy web applications in the cloud](Articles/evaluating_the_monolithic_and_the_microservice_architecture_pattern_to_deploy_web_applications_in_the_cloud-villamizar_et_al.pdf) (Mario Villamizar et al.)
 - [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) (Giuseppe DeCandia et al.)
 - [Kafka: a Distributed Messaging System for Log Processing](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf) (Jay Kreps et al.)
+- [A Methodology for Collecting Valid Software Engineering Data](https://www.cs.umd.edu/~basili/publications/journals/J23.pdf) (Victor Basili et al.)
 
 ## 🧰 Resources
 
