@@ -42,6 +42,7 @@ These experiments and contents cover general tools and concepts related to softw
 - [Kafka: a Distributed Messaging System for Log Processing](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf) (Jay Kreps et al.)
 - [A Methodology for Collecting Valid Software Engineering Data](https://www.cs.umd.edu/~basili/publications/journals/J23.pdf) (Victor Basili et al.)
 - [A Comparative Analysis of Spring MVC and Spring WebFlux in Modern Web Development](https://www.theseus.fi/bitstream/handle/10024/812448/Catrina_Alexandru.pdf) (Alexandru-Valentin Catrina)
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) (Satoshi Nakamoto)
 
 ## 🧰 Resources
 
