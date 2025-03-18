@@ -43,7 +43,7 @@ These experiments and contents cover general tools and concepts related to softw
 - [A Methodology for Collecting Valid Software Engineering Data](https://www.cs.umd.edu/~basili/publications/journals/J23.pdf) (Victor Basili et al.)
 - [A Comparative Analysis of Spring MVC and Spring WebFlux in Modern Web Development](https://www.theseus.fi/bitstream/handle/10024/812448/Catrina_Alexandru.pdf) (Alexandru-Valentin Catrina)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) (Satoshi Nakamoto)
-- [A Note on Distributed Computing](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf) (Jim Waldo)
+- [A Note on Distributed Computing](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf) (Jim Waldo et al.)
 
 ## 🧰 Resources
 
