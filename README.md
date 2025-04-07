@@ -44,6 +44,7 @@ These experiments and contents cover general tools and concepts related to softw
 - [A Comparative Analysis of Spring MVC and Spring WebFlux in Modern Web Development](https://www.theseus.fi/bitstream/handle/10024/812448/Catrina_Alexandru.pdf) (Alexandru-Valentin Catrina)
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) (Satoshi Nakamoto)
 - [A Note on Distributed Computing](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf) (Jim Waldo et al.)
+- [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf) (Avinash Lakshman et al.)
 
 ## 🧰 Resources
 
