@@ -48,6 +48,7 @@ These experiments and contents cover general tools and concepts related to softw
 - [On the Criteria To Be Used in Decomposing Systems into Modules](https://wstomv.win.tue.nl/edu/2ip30/references/criteria_for_modularization.pdf) (D. L. Parnas)
 - [Time, Clocks, and the Ordering of Events in Distributed Systems](https://lamport.azurewebsites.net/pubs/time-clocks.pdf) (Leslie Lamport)
 - [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (Chan F. et al.)
+- [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) (Ghemawat S. et al.)
 
 ## 🧰 Resources
 
