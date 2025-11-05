@@ -49,6 +49,8 @@ These experiments and contents cover general tools and concepts related to softw
 - [Time, Clocks, and the Ordering of Events in Distributed Systems](https://lamport.azurewebsites.net/pubs/time-clocks.pdf) (Leslie Lamport)
 - [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) (Chan F. et al.)
 - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) (Ghemawat S. et al.)
+- [WTF: The Who to Follow Service at Twitter](https://stanford.edu/~rezab/papers/wtf_overview.pdf) (Pankaj Gupta et al.)
+- [Apache Flink: Stream and Batch Processing in a Single Engine](https://asterios.katsifodimos.com/assets/publications/flink-deb.pdf) (Paris Carbone et al.)
 
 ## 🧰 Resources
 
