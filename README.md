@@ -51,6 +51,7 @@ These experiments and contents cover general tools and concepts related to softw
 - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) (Ghemawat S. et al.)
 - [WTF: The Who to Follow Service at Twitter](https://stanford.edu/~rezab/papers/wtf_overview.pdf) (Pankaj Gupta et al.)
 - [Apache Flink: Stream and Batch Processing in a Single Engine](https://asterios.katsifodimos.com/assets/publications/flink-deb.pdf) (Paris Carbone et al.)
+- [Spanner: Google’s Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) (James C. Corbett et al.)
 
 ## 🧰 Resources
 
