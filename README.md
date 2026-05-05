@@ -53,6 +53,7 @@ These experiments and contents cover general tools and concepts related to softw
 - [Apache Flink: Stream and Batch Processing in a Single Engine](https://asterios.katsifodimos.com/assets/publications/flink-deb.pdf) (Paris Carbone et al.)
 - [Spanner: Google’s Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) (James C. Corbett et al.)
 - [An axiomatic basis for computer programming](Articles/an_axiomatic_basis_for_computer_programming_hoare.pdf) (C. A. R. Hoare)
+- [Exploring the Evolution of Software Engineering with Generative AI](Articles/exploring_the_evolution_of_software_engineering_with_generative_ai-mathew_et_al.pdf) (Aaron Mathew et al.)
 
 ## 🧰 Resources
 
